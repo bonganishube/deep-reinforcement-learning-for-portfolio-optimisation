@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning for Portfolio Optimization
 
-This repository presents an end-to-end implementation of multiple Deep Reinforcement Learning (DRL) algorithms applied to financial portfolio optimization. The models leverage historical price data, technical indicators, and sentiment signals to make dynamic allocation decisions, and are evaluated against benchmark strategies such as buy-and-hold on the S&P 500 and NASDAQ.
+This repository presents an end-to-end implementation of multiple Deep Reinforcement Learning (DRL) algorithms applied to financial portfolio optimisation. The models leverage historical price data, technical indicators, and sentiment signals to make dynamic allocation decisions, and are evaluated against benchmark strategies such as buy-and-hold on the S&P 500 and NASDAQ.
 
 ---
 
@@ -22,9 +22,9 @@ Each agent interacts with a custom OpenAI Gym-compatible environment that simula
 - ✅ Modular and extensible agent implementations
 - ✅ Custom Gym environment for portfolio management
 - ✅ Technical indicator integration via the `ta` library
-- ✅ Sentiment signal ingestion from CSV data
+- ✅ Sentiment signal ingestion
 - ✅ Sliding window time-series cross-validation
-- ✅ Visualization of agent performance and learning curves
+- ✅ Visualisation of agent performance and learning curves
 - ✅ Baseline comparison with traditional benchmarks
 - ✅ Checkpointing and reproducibility support
 
