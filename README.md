@@ -1,4 +1,4 @@
-# Deep Reinforcement Learning for Portfolio Optimization
+# Deep Reinforcement Learning for Portfolio Optimisation
 
 This repository presents an end-to-end implementation of multiple Deep Reinforcement Learning (DRL) algorithms applied to financial portfolio optimisation. The models leverage historical price data, technical indicators, and sentiment signals to make dynamic allocation decisions, and are evaluated against benchmark strategies such as buy-and-hold on the S&P 500 and NASDAQ.
 
